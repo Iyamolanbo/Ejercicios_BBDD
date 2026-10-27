@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Tema4_EntidadRelacion_1" id="DDF5CB5F-2966-373B-A610-3CB8779BF8FB" version="3.5">
+<createdBy>MEDAC</createdBy>
+<createdTime>2026-10-26 11:37:40 UTC</createdTime>
+<ownerDesignName>Tema4_EntidadRelacion_1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>DDF5CB5F-2966-373B-A610-3CB8779BF8FB</designId>
+</OSDM_Design>
