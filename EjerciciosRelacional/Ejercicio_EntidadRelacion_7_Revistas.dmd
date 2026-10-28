@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Ejercicio_EntidadRelacion_7_Revistas" id="7D58A8CB-4549-46B0-2643-7A41810E27EB" version="3.5">
+<createdBy>bombe</createdBy>
+<createdTime>2026-10-28 18:50:00 UTC</createdTime>
+<ownerDesignName>Ejercicio_EntidadRelacion_7_Revistas</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7D58A8CB-4549-46B0-2643-7A41810E27EB</designId>
+</OSDM_Design>
