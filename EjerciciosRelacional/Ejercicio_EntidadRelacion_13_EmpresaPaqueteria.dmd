@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Ejercicio_EntidadRelacion_13_EmpresaPaqueteria" id="C10D7D47-4ADF-1B6D-C2DF-CD69B5BE8064" version="3.5">
+<createdBy>bombe</createdBy>
+<createdTime>2026-10-28 20:23:24 UTC</createdTime>
+<ownerDesignName>Ejercicio_EntidadRelacion_13_EmpresaPaqueteria</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C10D7D47-4ADF-1B6D-C2DF-CD69B5BE8064</designId>
+</OSDM_Design>
