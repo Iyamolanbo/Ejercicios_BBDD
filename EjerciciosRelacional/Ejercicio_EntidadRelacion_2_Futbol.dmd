@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Ejercicio_EntidadRelacion_2_Futbol" id="E7174F72-1882-12DB-2874-7D79F7732265" version="3.5">
+<createdBy>bombe</createdBy>
+<createdTime>2026-10-27 22:18:04 UTC</createdTime>
+<ownerDesignName>Ejercicio_EntidadRelacion_2_Futbol</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>E7174F72-1882-12DB-2874-7D79F7732265</designId>
+</OSDM_Design>
